@@ -1,0 +1,346 @@
+Tue May 24 20:22:24 2022: build-wrapper, version 6.33 (macosx-x86)
+Tue May 24 20:22:24 2022: System name: Darwin Nodename: Franciscos-MacBook-Pro.local Release: 21.4.0 Version: Darwin Kernel Version 21.4.0: Fri Mar 18 00:45:05 PDT 2022; root:xnu-8020.101.4~15/RELEASE_X86_64 Machine: x86_64
+Tue May 24 20:22:24 2022: socket path: /tmp/build-wrapper-socket.mmAMG6
+Tue May 24 20:22:24 2022: dynamic library found: /Users/franciscomagot/Downloads/build-wrapper-macosx-x86/libinterceptor.dylib
+Tue May 24 20:22:24 2022: cwd: </Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: command executed as: <build-wrapper-macosx-x86 --out-dir bw-output>
+Tue May 24 20:22:24 2022: out-dir absolute path: </Users/franciscomagot/Documents/Code/ing software/examen-parcial/bw-output>
+Tue May 24 20:22:24 2022: command line received: <g++ main.cpp>
+Tue May 24 20:22:24 2022: env 0: <USER=franciscomagot>
+Tue May 24 20:22:24 2022: env 1: <__CFBundleIdentifier=com.microsoft.VSCode>
+Tue May 24 20:22:24 2022: env 2: <COMMAND_MODE=unix2003>
+Tue May 24 20:22:24 2022: env 3: <LOGNAME=franciscomagot>
+Tue May 24 20:22:24 2022: env 4: <PATH=/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/franciscomagot/Downloads/build-wrapper-macosx-x86:/Users/franciscomagot/Downloads/sonar-scanner-4.7.0-2.2747-macosx/bin:/Library/TeX/texbin:/Library/Apple/usr/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin>
+Tue May 24 20:22:24 2022: env 5: <SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.r1whZjobwV/Listeners>
+Tue May 24 20:22:24 2022: env 6: <SHELL=/bin/zsh>
+Tue May 24 20:22:24 2022: env 7: <HOME=/Users/franciscomagot>
+Tue May 24 20:22:24 2022: env 8: <__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0>
+Tue May 24 20:22:24 2022: env 9: <TMPDIR=/var/folders/0j/0wq5m6t11kd7qlw1mc_wg5pw0000gn/T/>
+Tue May 24 20:22:24 2022: env 10: <XPC_SERVICE_NAME=0>
+Tue May 24 20:22:24 2022: env 11: <XPC_FLAGS=0x0>
+Tue May 24 20:22:24 2022: env 12: <ORIGINAL_XDG_CURRENT_DESKTOP=undefined>
+Tue May 24 20:22:24 2022: env 13: <SHLVL=1>
+Tue May 24 20:22:24 2022: env 14: <PWD=/Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: env 15: <OLDPWD=/Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: env 16: <CLICOLOR=1>
+Tue May 24 20:22:24 2022: env 17: <LSCOLORS=ExGxBxDxCxEgEdxbxgxcxd>
+Tue May 24 20:22:24 2022: env 18: <TERM_PROGRAM=vscode>
+Tue May 24 20:22:24 2022: env 19: <TERM_PROGRAM_VERSION=1.67.2>
+Tue May 24 20:22:24 2022: env 20: <LANG=en_US.UTF-8>
+Tue May 24 20:22:24 2022: env 21: <COLORTERM=truecolor>
+Tue May 24 20:22:24 2022: env 22: <VSCODE_GIT_IPC_HANDLE=/var/folders/0j/0wq5m6t11kd7qlw1mc_wg5pw0000gn/T/vscode-git-46d899eb55.sock>
+Tue May 24 20:22:24 2022: env 23: <VSCODE_GIT_ASKPASS_NODE=/Applications/Visual Studio Code.app/Contents/MacOS/Electron>
+Tue May 24 20:22:24 2022: env 24: <VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node>
+Tue May 24 20:22:24 2022: env 25: <VSCODE_GIT_ASKPASS_MAIN=/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js>
+Tue May 24 20:22:24 2022: env 26: <GIT_ASKPASS=/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh>
+Tue May 24 20:22:24 2022: env 27: <TERM=xterm-256color>
+Tue May 24 20:22:24 2022: env 28: <SONAR_TOKEN=2e58864095091d492df6211d7de40ab51cab2a62>
+Tue May 24 20:22:24 2022: env 29: <_=/Users/franciscomagot/Downloads/build-wrapper-macosx-x86/build-wrapper-macosx-x86>
+Tue May 24 20:22:24 2022: executing: <g++ main.cpp>
+Tue May 24 20:22:24 2022: initializing json file
+Tue May 24 20:22:24 2022: process created with pid: 59219
+Tue May 24 20:22:24 2022: parent pid: 59218
+Tue May 24 20:22:24 2022: working directory: </Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: executable: </Users/franciscomagot/Downloads/build-wrapper-macosx-x86/build-wrapper-macosx-x86>
+Tue May 24 20:22:24 2022: argv[0]: <build-wrapper-macosx-x86>
+Tue May 24 20:22:24 2022: argv[1]: <-c>
+Tue May 24 20:22:24 2022: argv[2]: <>
+Tue May 24 20:22:24 2022: argv[3]: <g++>
+Tue May 24 20:22:24 2022: argv[4]: <main.cpp>
+Tue May 24 20:22:24 2022: skipping process with pid: 59219
+Tue May 24 20:22:24 2022: process created with pid: 59220
+Tue May 24 20:22:24 2022: parent pid: 59219
+Tue May 24 20:22:24 2022: working directory: </Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: executable: </private/tmp/sonarsource-build-wrapper-cache-501/usr/bin/g++>
+Tue May 24 20:22:24 2022: argv[0]: <g++>
+Tue May 24 20:22:24 2022: argv[1]: <main.cpp>
+Tue May 24 20:22:24 2022: envp[0]: <SQ_WRAPPER_SOCKET=/tmp/build-wrapper-socket.mmAMG6>
+Tue May 24 20:22:24 2022: envp[1]: <SQ_WRAPPER_LIBRARY=/Users/franciscomagot/Downloads/build-wrapper-macosx-x86/libinterceptor.dylib>
+Tue May 24 20:22:24 2022: envp[2]: <USER=franciscomagot>
+Tue May 24 20:22:24 2022: envp[3]: <__CFBundleIdentifier=com.microsoft.VSCode>
+Tue May 24 20:22:24 2022: envp[4]: <COMMAND_MODE=unix2003>
+Tue May 24 20:22:24 2022: envp[5]: <LOGNAME=franciscomagot>
+Tue May 24 20:22:24 2022: envp[6]: <PATH=/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/franciscomagot/Downloads/build-wrapper-macosx-x86:/Users/franciscomagot/Downloads/sonar-scanner-4.7.0-2.2747-macosx/bin:/Library/TeX/texbin:/Library/Apple/usr/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin>
+Tue May 24 20:22:24 2022: envp[7]: <SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.r1whZjobwV/Listeners>
+Tue May 24 20:22:24 2022: envp[8]: <SHELL=/bin/zsh>
+Tue May 24 20:22:24 2022: envp[9]: <HOME=/Users/franciscomagot>
+Tue May 24 20:22:24 2022: envp[10]: <__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0>
+Tue May 24 20:22:24 2022: envp[11]: <TMPDIR=/var/folders/0j/0wq5m6t11kd7qlw1mc_wg5pw0000gn/T/>
+Tue May 24 20:22:24 2022: envp[12]: <XPC_SERVICE_NAME=0>
+Tue May 24 20:22:24 2022: envp[13]: <XPC_FLAGS=0x0>
+Tue May 24 20:22:24 2022: envp[14]: <ORIGINAL_XDG_CURRENT_DESKTOP=undefined>
+Tue May 24 20:22:24 2022: envp[15]: <SHLVL=1>
+Tue May 24 20:22:24 2022: envp[16]: <PWD=/Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: envp[17]: <OLDPWD=/Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: envp[18]: <CLICOLOR=1>
+Tue May 24 20:22:24 2022: envp[19]: <LSCOLORS=ExGxBxDxCxEgEdxbxgxcxd>
+Tue May 24 20:22:24 2022: envp[20]: <TERM_PROGRAM=vscode>
+Tue May 24 20:22:24 2022: envp[21]: <TERM_PROGRAM_VERSION=1.67.2>
+Tue May 24 20:22:24 2022: envp[22]: <LANG=en_US.UTF-8>
+Tue May 24 20:22:24 2022: envp[23]: <COLORTERM=truecolor>
+Tue May 24 20:22:24 2022: envp[24]: <VSCODE_GIT_IPC_HANDLE=/var/folders/0j/0wq5m6t11kd7qlw1mc_wg5pw0000gn/T/vscode-git-46d899eb55.sock>
+Tue May 24 20:22:24 2022: envp[25]: <VSCODE_GIT_ASKPASS_NODE=/Applications/Visual Studio Code.app/Contents/MacOS/Electron>
+Tue May 24 20:22:24 2022: envp[26]: <VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node>
+Tue May 24 20:22:24 2022: envp[27]: <VSCODE_GIT_ASKPASS_MAIN=/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js>
+Tue May 24 20:22:24 2022: envp[28]: <GIT_ASKPASS=/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh>
+Tue May 24 20:22:24 2022: envp[29]: <TERM=xterm-256color>
+Tue May 24 20:22:24 2022: envp[30]: <SONAR_TOKEN=2e58864095091d492df6211d7de40ab51cab2a62>
+Tue May 24 20:22:24 2022: envp[31]: <_=/Users/franciscomagot/Downloads/build-wrapper-macosx-x86/build-wrapper-macosx-x86>
+Tue May 24 20:22:24 2022: envp[32]: <DYLD_INSERT_LIBRARIES=>
+Tue May 24 20:22:24 2022: process created with pid: 59220
+Tue May 24 20:22:24 2022: parent pid: 59219
+Tue May 24 20:22:24 2022: working directory: </Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: executable: </Applications/Xcode.app/Contents/Developer/usr/bin/gcc>
+Tue May 24 20:22:24 2022: argv[0]: </Applications/Xcode.app/Contents/Developer/usr/bin/g++>
+Tue May 24 20:22:24 2022: argv[1]: <main.cpp>
+Tue May 24 20:22:24 2022: envp[0]: <SQ_WRAPPER_SOCKET=/tmp/build-wrapper-socket.mmAMG6>
+Tue May 24 20:22:24 2022: envp[1]: <SQ_WRAPPER_LIBRARY=/Users/franciscomagot/Downloads/build-wrapper-macosx-x86/libinterceptor.dylib>
+Tue May 24 20:22:24 2022: envp[2]: <USER=franciscomagot>
+Tue May 24 20:22:24 2022: envp[3]: <__CFBundleIdentifier=com.microsoft.VSCode>
+Tue May 24 20:22:24 2022: envp[4]: <COMMAND_MODE=unix2003>
+Tue May 24 20:22:24 2022: envp[5]: <LOGNAME=franciscomagot>
+Tue May 24 20:22:24 2022: envp[6]: <PATH=/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/franciscomagot/Downloads/build-wrapper-macosx-x86:/Users/franciscomagot/Downloads/sonar-scanner-4.7.0-2.2747-macosx/bin:/Library/TeX/texbin:/Library/Apple/usr/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin>
+Tue May 24 20:22:24 2022: envp[7]: <SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.r1whZjobwV/Listeners>
+Tue May 24 20:22:24 2022: envp[8]: <SHELL=/bin/zsh>
+Tue May 24 20:22:24 2022: envp[9]: <HOME=/Users/franciscomagot>
+Tue May 24 20:22:24 2022: envp[10]: <__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0>
+Tue May 24 20:22:24 2022: envp[11]: <TMPDIR=/var/folders/0j/0wq5m6t11kd7qlw1mc_wg5pw0000gn/T/>
+Tue May 24 20:22:24 2022: envp[12]: <XPC_SERVICE_NAME=0>
+Tue May 24 20:22:24 2022: envp[13]: <XPC_FLAGS=0x0>
+Tue May 24 20:22:24 2022: envp[14]: <ORIGINAL_XDG_CURRENT_DESKTOP=undefined>
+Tue May 24 20:22:24 2022: envp[15]: <SHLVL=1>
+Tue May 24 20:22:24 2022: envp[16]: <PWD=/Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: envp[17]: <OLDPWD=/Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: envp[18]: <CLICOLOR=1>
+Tue May 24 20:22:24 2022: envp[19]: <LSCOLORS=ExGxBxDxCxEgEdxbxgxcxd>
+Tue May 24 20:22:24 2022: envp[20]: <TERM_PROGRAM=vscode>
+Tue May 24 20:22:24 2022: envp[21]: <TERM_PROGRAM_VERSION=1.67.2>
+Tue May 24 20:22:24 2022: envp[22]: <LANG=en_US.UTF-8>
+Tue May 24 20:22:24 2022: envp[23]: <COLORTERM=truecolor>
+Tue May 24 20:22:24 2022: envp[24]: <VSCODE_GIT_IPC_HANDLE=/var/folders/0j/0wq5m6t11kd7qlw1mc_wg5pw0000gn/T/vscode-git-46d899eb55.sock>
+Tue May 24 20:22:24 2022: envp[25]: <VSCODE_GIT_ASKPASS_NODE=/Applications/Visual Studio Code.app/Contents/MacOS/Electron>
+Tue May 24 20:22:24 2022: envp[26]: <VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node>
+Tue May 24 20:22:24 2022: envp[27]: <VSCODE_GIT_ASKPASS_MAIN=/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js>
+Tue May 24 20:22:24 2022: envp[28]: <GIT_ASKPASS=/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh>
+Tue May 24 20:22:24 2022: envp[29]: <TERM=xterm-256color>
+Tue May 24 20:22:24 2022: envp[30]: <SONAR_TOKEN=2e58864095091d492df6211d7de40ab51cab2a62>
+Tue May 24 20:22:24 2022: envp[31]: <_=/Users/franciscomagot/Downloads/build-wrapper-macosx-x86/build-wrapper-macosx-x86>
+Tue May 24 20:22:24 2022: envp[32]: <SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk>
+Tue May 24 20:22:24 2022: envp[33]: <CPATH=/usr/local/include>
+Tue May 24 20:22:24 2022: envp[34]: <LIBRARY_PATH=/usr/local/lib>
+Tue May 24 20:22:24 2022: envp[35]: <DYLD_INSERT_LIBRARIES=>
+Tue May 24 20:22:24 2022: process created with pid: 59220
+Tue May 24 20:22:24 2022: parent pid: 59219
+Tue May 24 20:22:24 2022: working directory: </Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: executable: </private/tmp/sonarsource-build-wrapper-cache-501/usr/bin/xcrun>
+Tue May 24 20:22:24 2022: argv[0]: </usr/bin/xcrun>
+Tue May 24 20:22:24 2022: argv[1]: <clang++>
+Tue May 24 20:22:24 2022: argv[2]: <main.cpp>
+Tue May 24 20:22:24 2022: skipping process with pid: 59220
+Tue May 24 20:22:24 2022: process created with pid: 59220
+Tue May 24 20:22:24 2022: parent pid: 59219
+Tue May 24 20:22:24 2022: working directory: </Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: executable: </Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang>
+Tue May 24 20:22:24 2022: argv[0]: </Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++>
+Tue May 24 20:22:24 2022: argv[1]: <main.cpp>
+Tue May 24 20:22:24 2022: envp[0]: <SQ_WRAPPER_SOCKET=/tmp/build-wrapper-socket.mmAMG6>
+Tue May 24 20:22:24 2022: envp[1]: <SQ_WRAPPER_LIBRARY=/Users/franciscomagot/Downloads/build-wrapper-macosx-x86/libinterceptor.dylib>
+Tue May 24 20:22:24 2022: envp[2]: <USER=franciscomagot>
+Tue May 24 20:22:24 2022: envp[3]: <__CFBundleIdentifier=com.microsoft.VSCode>
+Tue May 24 20:22:24 2022: envp[4]: <COMMAND_MODE=unix2003>
+Tue May 24 20:22:24 2022: envp[5]: <LOGNAME=franciscomagot>
+Tue May 24 20:22:24 2022: envp[6]: <PATH=/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/franciscomagot/Downloads/build-wrapper-macosx-x86:/Users/franciscomagot/Downloads/sonar-scanner-4.7.0-2.2747-macosx/bin:/Library/TeX/texbin:/Library/Apple/usr/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin>
+Tue May 24 20:22:24 2022: envp[7]: <SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.r1whZjobwV/Listeners>
+Tue May 24 20:22:24 2022: envp[8]: <SHELL=/bin/zsh>
+Tue May 24 20:22:24 2022: envp[9]: <HOME=/Users/franciscomagot>
+Tue May 24 20:22:24 2022: envp[10]: <__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0>
+Tue May 24 20:22:24 2022: envp[11]: <TMPDIR=/var/folders/0j/0wq5m6t11kd7qlw1mc_wg5pw0000gn/T/>
+Tue May 24 20:22:24 2022: envp[12]: <XPC_SERVICE_NAME=0>
+Tue May 24 20:22:24 2022: envp[13]: <XPC_FLAGS=0x0>
+Tue May 24 20:22:24 2022: envp[14]: <ORIGINAL_XDG_CURRENT_DESKTOP=undefined>
+Tue May 24 20:22:24 2022: envp[15]: <SHLVL=1>
+Tue May 24 20:22:24 2022: envp[16]: <PWD=/Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: envp[17]: <OLDPWD=/Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: envp[18]: <CLICOLOR=1>
+Tue May 24 20:22:24 2022: envp[19]: <LSCOLORS=ExGxBxDxCxEgEdxbxgxcxd>
+Tue May 24 20:22:24 2022: envp[20]: <TERM_PROGRAM=vscode>
+Tue May 24 20:22:24 2022: envp[21]: <TERM_PROGRAM_VERSION=1.67.2>
+Tue May 24 20:22:24 2022: envp[22]: <LANG=en_US.UTF-8>
+Tue May 24 20:22:24 2022: envp[23]: <COLORTERM=truecolor>
+Tue May 24 20:22:24 2022: envp[24]: <VSCODE_GIT_IPC_HANDLE=/var/folders/0j/0wq5m6t11kd7qlw1mc_wg5pw0000gn/T/vscode-git-46d899eb55.sock>
+Tue May 24 20:22:24 2022: envp[25]: <VSCODE_GIT_ASKPASS_NODE=/Applications/Visual Studio Code.app/Contents/MacOS/Electron>
+Tue May 24 20:22:24 2022: envp[26]: <VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node>
+Tue May 24 20:22:24 2022: envp[27]: <VSCODE_GIT_ASKPASS_MAIN=/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js>
+Tue May 24 20:22:24 2022: envp[28]: <GIT_ASKPASS=/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh>
+Tue May 24 20:22:24 2022: envp[29]: <TERM=xterm-256color>
+Tue May 24 20:22:24 2022: envp[30]: <SONAR_TOKEN=2e58864095091d492df6211d7de40ab51cab2a62>
+Tue May 24 20:22:24 2022: envp[31]: <_=/Users/franciscomagot/Downloads/build-wrapper-macosx-x86/build-wrapper-macosx-x86>
+Tue May 24 20:22:24 2022: envp[32]: <SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk>
+Tue May 24 20:22:24 2022: envp[33]: <CPATH=/usr/local/include>
+Tue May 24 20:22:24 2022: envp[34]: <LIBRARY_PATH=/usr/local/lib>
+Tue May 24 20:22:24 2022: envp[35]: <DYLD_INSERT_LIBRARIES=>
+Tue May 24 20:22:24 2022: process created with pid: 59221
+Tue May 24 20:22:24 2022: parent pid: 59220
+Tue May 24 20:22:24 2022: working directory: </Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: executable: </Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang>
+Tue May 24 20:22:24 2022: argv[0]: </Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang>
+Tue May 24 20:22:24 2022: argv[1]: <-cc1>
+Tue May 24 20:22:24 2022: argv[2]: <-triple>
+Tue May 24 20:22:24 2022: argv[3]: <x86_64-apple-macosx12.0.0>
+Tue May 24 20:22:24 2022: argv[4]: <-Wundef-prefix=TARGET_OS_>
+Tue May 24 20:22:24 2022: argv[5]: <-Wdeprecated-objc-isa-usage>
+Tue May 24 20:22:24 2022: argv[6]: <-Werror=deprecated-objc-isa-usage>
+Tue May 24 20:22:24 2022: argv[7]: <-Werror=implicit-function-declaration>
+Tue May 24 20:22:24 2022: argv[8]: <-emit-obj>
+Tue May 24 20:22:24 2022: argv[9]: <-mrelax-all>
+Tue May 24 20:22:24 2022: argv[10]: <--mrelax-relocations>
+Tue May 24 20:22:24 2022: argv[11]: <-disable-free>
+Tue May 24 20:22:24 2022: argv[12]: <-disable-llvm-verifier>
+Tue May 24 20:22:24 2022: argv[13]: <-discard-value-names>
+Tue May 24 20:22:24 2022: argv[14]: <-main-file-name>
+Tue May 24 20:22:24 2022: argv[15]: <main.cpp>
+Tue May 24 20:22:24 2022: argv[16]: <-mrelocation-model>
+Tue May 24 20:22:24 2022: argv[17]: <pic>
+Tue May 24 20:22:24 2022: argv[18]: <-pic-level>
+Tue May 24 20:22:24 2022: argv[19]: <2>
+Tue May 24 20:22:24 2022: argv[20]: <-mframe-pointer=all>
+Tue May 24 20:22:24 2022: argv[21]: <-fno-strict-return>
+Tue May 24 20:22:24 2022: argv[22]: <-fno-rounding-math>
+Tue May 24 20:22:24 2022: argv[23]: <-munwind-tables>
+Tue May 24 20:22:24 2022: argv[24]: <-target-sdk-version=12.3>
+Tue May 24 20:22:24 2022: argv[25]: <-fvisibility-inlines-hidden-static-local-var>
+Tue May 24 20:22:24 2022: argv[26]: <-target-cpu>
+Tue May 24 20:22:24 2022: argv[27]: <penryn>
+Tue May 24 20:22:24 2022: argv[28]: <-tune-cpu>
+Tue May 24 20:22:24 2022: argv[29]: <generic>
+Tue May 24 20:22:24 2022: argv[30]: <-debugger-tuning=lldb>
+Tue May 24 20:22:24 2022: argv[31]: <-target-linker-version>
+Tue May 24 20:22:24 2022: argv[32]: <763>
+Tue May 24 20:22:24 2022: argv[33]: <-resource-dir>
+Tue May 24 20:22:24 2022: argv[34]: </Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6>
+Tue May 24 20:22:24 2022: argv[35]: <-isysroot>
+Tue May 24 20:22:24 2022: argv[36]: </Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk>
+Tue May 24 20:22:24 2022: argv[37]: <-I/usr/local/include>
+Tue May 24 20:22:24 2022: argv[38]: <-stdlib=libc++>
+Tue May 24 20:22:24 2022: argv[39]: <-internal-isystem>
+Tue May 24 20:22:24 2022: argv[40]: </Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/c++/v1>
+Tue May 24 20:22:24 2022: argv[41]: <-internal-isystem>
+Tue May 24 20:22:24 2022: argv[42]: </Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/local/include>
+Tue May 24 20:22:24 2022: argv[43]: <-internal-isystem>
+Tue May 24 20:22:24 2022: argv[44]: </Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/include>
+Tue May 24 20:22:24 2022: argv[45]: <-internal-externc-isystem>
+Tue May 24 20:22:24 2022: argv[46]: </Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include>
+Tue May 24 20:22:24 2022: argv[47]: <-internal-externc-isystem>
+Tue May 24 20:22:24 2022: argv[48]: </Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include>
+Tue May 24 20:22:24 2022: argv[49]: <-Wno-reorder-init-list>
+Tue May 24 20:22:24 2022: argv[50]: <-Wno-implicit-int-float-conversion>
+Tue May 24 20:22:24 2022: argv[51]: <-Wno-c99-designator>
+Tue May 24 20:22:24 2022: argv[52]: <-Wno-final-dtor-non-final-class>
+Tue May 24 20:22:24 2022: argv[53]: <-Wno-extra-semi-stmt>
+Tue May 24 20:22:24 2022: argv[54]: <-Wno-misleading-indentation>
+Tue May 24 20:22:24 2022: argv[55]: <-Wno-quoted-include-in-framework-header>
+Tue May 24 20:22:24 2022: argv[56]: <-Wno-implicit-fallthrough>
+Tue May 24 20:22:24 2022: argv[57]: <-Wno-enum-enum-conversion>
+Tue May 24 20:22:24 2022: argv[58]: <-Wno-enum-float-conversion>
+Tue May 24 20:22:24 2022: argv[59]: <-Wno-elaborated-enum-base>
+Tue May 24 20:22:24 2022: argv[60]: <-Wno-reserved-identifier>
+Tue May 24 20:22:24 2022: argv[61]: <-Wno-gnu-folding-constant>
+Tue May 24 20:22:24 2022: argv[62]: <-Wno-objc-load-method>
+Tue May 24 20:22:24 2022: argv[63]: <-fdeprecated-macro>
+Tue May 24 20:22:24 2022: argv[64]: <-fdebug-compilation-dir=/Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: argv[65]: <-ferror-limit>
+Tue May 24 20:22:24 2022: argv[66]: <19>
+Tue May 24 20:22:24 2022: argv[67]: <-stack-protector>
+Tue May 24 20:22:24 2022: argv[68]: <1>
+Tue May 24 20:22:24 2022: argv[69]: <-fstack-check>
+Tue May 24 20:22:24 2022: argv[70]: <-mdarwin-stkchk-strong-link>
+Tue May 24 20:22:24 2022: argv[71]: <-fblocks>
+Tue May 24 20:22:24 2022: argv[72]: <-fencode-extended-block-signature>
+Tue May 24 20:22:24 2022: argv[73]: <-fregister-global-dtors-with-atexit>
+Tue May 24 20:22:24 2022: argv[74]: <-fgnuc-version=4.2.1>
+Tue May 24 20:22:24 2022: argv[75]: <-fno-cxx-modules>
+Tue May 24 20:22:24 2022: argv[76]: <-fcxx-exceptions>
+Tue May 24 20:22:24 2022: argv[77]: <-fexceptions>
+Tue May 24 20:22:24 2022: argv[78]: <-fmax-type-align=16>
+Tue May 24 20:22:24 2022: argv[79]: <-fcommon>
+Tue May 24 20:22:24 2022: argv[80]: <-fcolor-diagnostics>
+Tue May 24 20:22:24 2022: argv[81]: <-clang-vendor-feature=+messageToSelfInClassMethodIdReturnType>
+Tue May 24 20:22:24 2022: argv[82]: <-clang-vendor-feature=+disableInferNewAvailabilityFromInit>
+Tue May 24 20:22:24 2022: argv[83]: <-clang-vendor-feature=+disableNonDependentMemberExprInCurrentInstantiation>
+Tue May 24 20:22:24 2022: argv[84]: <-fno-odr-hash-protocols>
+Tue May 24 20:22:24 2022: argv[85]: <-clang-vendor-feature=+enableAggressiveVLAFolding>
+Tue May 24 20:22:24 2022: argv[86]: <-clang-vendor-feature=+revert09abecef7bbf>
+Tue May 24 20:22:24 2022: argv[87]: <-clang-vendor-feature=+thisNoAlignAttr>
+Tue May 24 20:22:24 2022: argv[88]: <-clang-vendor-feature=+thisNoNullAttr>
+Tue May 24 20:22:24 2022: argv[89]: <-mllvm>
+Tue May 24 20:22:24 2022: argv[90]: <-disable-aligned-alloc-awareness=1>
+Tue May 24 20:22:24 2022: argv[91]: <-D__GCC_HAVE_DWARF2_CFI_ASM=1>
+Tue May 24 20:22:24 2022: argv[92]: <-o>
+Tue May 24 20:22:24 2022: argv[93]: </var/folders/0j/0wq5m6t11kd7qlw1mc_wg5pw0000gn/T/main-1e2070.o>
+Tue May 24 20:22:24 2022: argv[94]: <-x>
+Tue May 24 20:22:24 2022: argv[95]: <c++>
+Tue May 24 20:22:24 2022: argv[96]: <main.cpp>
+Tue May 24 20:22:24 2022: envp[0]: <SQ_WRAPPER_SOCKET=/tmp/build-wrapper-socket.mmAMG6>
+Tue May 24 20:22:24 2022: envp[1]: <SQ_WRAPPER_LIBRARY=/Users/franciscomagot/Downloads/build-wrapper-macosx-x86/libinterceptor.dylib>
+Tue May 24 20:22:24 2022: envp[2]: <USER=franciscomagot>
+Tue May 24 20:22:24 2022: envp[3]: <__CFBundleIdentifier=com.microsoft.VSCode>
+Tue May 24 20:22:24 2022: envp[4]: <COMMAND_MODE=unix2003>
+Tue May 24 20:22:24 2022: envp[5]: <LOGNAME=franciscomagot>
+Tue May 24 20:22:24 2022: envp[6]: <PATH=/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/franciscomagot/Downloads/build-wrapper-macosx-x86:/Users/franciscomagot/Downloads/sonar-scanner-4.7.0-2.2747-macosx/bin:/Library/TeX/texbin:/Library/Apple/usr/bin:/Library/Frameworks/Python.framework/Versions/3.9/bin:/Library/Frameworks/Python.framework/Versions/3.8/bin>
+Tue May 24 20:22:24 2022: envp[7]: <SSH_AUTH_SOCK=/private/tmp/com.apple.launchd.r1whZjobwV/Listeners>
+Tue May 24 20:22:24 2022: envp[8]: <SHELL=/bin/zsh>
+Tue May 24 20:22:24 2022: envp[9]: <HOME=/Users/franciscomagot>
+Tue May 24 20:22:24 2022: envp[10]: <__CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0>
+Tue May 24 20:22:24 2022: envp[11]: <TMPDIR=/var/folders/0j/0wq5m6t11kd7qlw1mc_wg5pw0000gn/T/>
+Tue May 24 20:22:24 2022: envp[12]: <XPC_SERVICE_NAME=0>
+Tue May 24 20:22:24 2022: envp[13]: <XPC_FLAGS=0x0>
+Tue May 24 20:22:24 2022: envp[14]: <ORIGINAL_XDG_CURRENT_DESKTOP=undefined>
+Tue May 24 20:22:24 2022: envp[15]: <SHLVL=1>
+Tue May 24 20:22:24 2022: envp[16]: <PWD=/Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: envp[17]: <OLDPWD=/Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:24 2022: envp[18]: <CLICOLOR=1>
+Tue May 24 20:22:24 2022: envp[19]: <LSCOLORS=ExGxBxDxCxEgEdxbxgxcxd>
+Tue May 24 20:22:24 2022: envp[20]: <TERM_PROGRAM=vscode>
+Tue May 24 20:22:24 2022: envp[21]: <TERM_PROGRAM_VERSION=1.67.2>
+Tue May 24 20:22:24 2022: envp[22]: <LANG=en_US.UTF-8>
+Tue May 24 20:22:24 2022: envp[23]: <COLORTERM=truecolor>
+Tue May 24 20:22:24 2022: envp[24]: <VSCODE_GIT_IPC_HANDLE=/var/folders/0j/0wq5m6t11kd7qlw1mc_wg5pw0000gn/T/vscode-git-46d899eb55.sock>
+Tue May 24 20:22:24 2022: envp[25]: <VSCODE_GIT_ASKPASS_NODE=/Applications/Visual Studio Code.app/Contents/MacOS/Electron>
+Tue May 24 20:22:24 2022: envp[26]: <VSCODE_GIT_ASKPASS_EXTRA_ARGS=--ms-enable-electron-run-as-node>
+Tue May 24 20:22:24 2022: envp[27]: <VSCODE_GIT_ASKPASS_MAIN=/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass-main.js>
+Tue May 24 20:22:24 2022: envp[28]: <GIT_ASKPASS=/Applications/Visual Studio Code.app/Contents/Resources/app/extensions/git/dist/askpass.sh>
+Tue May 24 20:22:24 2022: envp[29]: <TERM=xterm-256color>
+Tue May 24 20:22:24 2022: envp[30]: <SONAR_TOKEN=2e58864095091d492df6211d7de40ab51cab2a62>
+Tue May 24 20:22:24 2022: envp[31]: <_=/Users/franciscomagot/Downloads/build-wrapper-macosx-x86/build-wrapper-macosx-x86>
+Tue May 24 20:22:24 2022: envp[32]: <SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk>
+Tue May 24 20:22:24 2022: envp[33]: <CPATH=/usr/local/include>
+Tue May 24 20:22:24 2022: envp[34]: <LIBRARY_PATH=/usr/local/lib>
+Tue May 24 20:22:24 2022: envp[35]: <DYLD_INSERT_LIBRARIES=>
+Tue May 24 20:22:25 2022: process created with pid: 59222
+Tue May 24 20:22:25 2022: parent pid: 59220
+Tue May 24 20:22:25 2022: working directory: </Users/franciscomagot/Documents/Code/ing software/examen-parcial>
+Tue May 24 20:22:25 2022: executable: </Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld>
+Tue May 24 20:22:25 2022: argv[0]: </Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/ld>
+Tue May 24 20:22:25 2022: argv[1]: <-demangle>
+Tue May 24 20:22:25 2022: argv[2]: <-lto_library>
+Tue May 24 20:22:25 2022: argv[3]: </Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/libLTO.dylib>
+Tue May 24 20:22:25 2022: argv[4]: <-no_deduplicate>
+Tue May 24 20:22:25 2022: argv[5]: <-dynamic>
+Tue May 24 20:22:25 2022: argv[6]: <-arch>
+Tue May 24 20:22:25 2022: argv[7]: <x86_64>
+Tue May 24 20:22:25 2022: argv[8]: <-platform_version>
+Tue May 24 20:22:25 2022: argv[9]: <macos>
+Tue May 24 20:22:25 2022: argv[10]: <12.0.0>
+Tue May 24 20:22:25 2022: argv[11]: <12.3>
+Tue May 24 20:22:25 2022: argv[12]: <-syslibroot>
+Tue May 24 20:22:25 2022: argv[13]: </Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk>
+Tue May 24 20:22:25 2022: argv[14]: <-o>
+Tue May 24 20:22:25 2022: argv[15]: <a.out>
+Tue May 24 20:22:25 2022: argv[16]: <-L/usr/local/lib>
+Tue May 24 20:22:25 2022: argv[17]: </var/folders/0j/0wq5m6t11kd7qlw1mc_wg5pw0000gn/T/main-1e2070.o>
+Tue May 24 20:22:25 2022: argv[18]: <-lc++>
+Tue May 24 20:22:25 2022: argv[19]: <-lSystem>
+Tue May 24 20:22:25 2022: argv[20]: </Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.1.6/lib/darwin/libclang_rt.osx.a>
+Tue May 24 20:22:25 2022: skipping process with pid: 59222
+Tue May 24 20:22:25 2022: finalizing json file
+Tue May 24 20:22:25 2022: returned with code: 0
