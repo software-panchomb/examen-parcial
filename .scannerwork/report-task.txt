@@ -3,5 +3,5 @@ projectKey=software-panchomb_examen-parcial
 serverUrl=https://sonarcloud.io
 serverVersion=8.0.0.29242
 dashboardUrl=https://sonarcloud.io/dashboard?id=software-panchomb_examen-parcial
-ceTaskId=AYD4z01RfH19f5W9ZaCp
-ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYD4z01RfH19f5W9ZaCp
+ceTaskId=AYD5FUpKAuP7cL3NpUux
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AYD5FUpKAuP7cL3NpUux
